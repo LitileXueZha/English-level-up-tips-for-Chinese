@@ -1,0 +1,28 @@
+{
+  "private": true,
+  "name": "english-level-up-tips-for-chinese",
+  "version": "1.0.0",
+  "description": "English-level-up-tips-for-Chinese",
+  "main": "index.js",
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LitileXueZha/English-level-up-tips-for-Chinese.git"
+  },
+  "keywords": [
+    "english",
+    "learning"
+  ],
+  "author": "litilexuezha",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/LitileXueZha/English-level-up-tips-for-Chinese/issues"
+  },
+  "homepage": "https://github.com/LitileXueZha/English-level-up-tips-for-Chinese#readme",
+  "dependencies": {
+    "html-pdf": "^3.0.1",
+    "marked": "^4.0.5"
+  }
+}
